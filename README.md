@@ -5,8 +5,7 @@ The progression of learning pentesting is becoming more of a passionate endeavor
 <ul> PJPT</ul>
 <ul> PJMR </ul>
 <ul> PNPT </ul>
-<u1> TryHackMe</u1>
-<u1> Hack The Box</u1>
+<u1> TryHackMe & Hack The Box</u1>
 
 <b>Finally, OSCP </b>
 
