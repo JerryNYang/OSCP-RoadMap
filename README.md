@@ -1,7 +1,7 @@
 # OSCP-RoadMap
 <html>
 <b><h1>Started My Journey</h1> ...
-The progression of learning pentesting is becoming more of a passionate endeavor!</b>
+The progression of learning pen-testing is becoming more of a passionate endeavor!</b>
 <ul> PJPT</ul>
 <ul> PJMR </ul>
 <ul> PNPT </ul>
