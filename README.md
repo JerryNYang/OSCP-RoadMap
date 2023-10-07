@@ -6,7 +6,7 @@ The progression of learning pen-testing is becoming more of a passionate endeavo
 * PNPT
 * TryHackMe & Hack The Box
 
-_Italic text here_
+_TCM Security_
 
 **Finally, OSCP**
 
