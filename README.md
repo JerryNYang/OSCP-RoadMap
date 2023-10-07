@@ -4,7 +4,9 @@ The progression of learning pen-testing is becoming more of a passionate endeavo
 * PJPT
 * PJMR 
 * PNPT
-* _TryHackMe & Hack The Box_
+* TryHackMe & Hack The Box
+
+_Italic text here_
 
 **Finally, OSCP**
 
