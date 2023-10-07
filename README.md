@@ -1,6 +1,5 @@
 
-<html>
-<b><h1>Started My Journey</h1> ...
+Started My Journey
 The progression of learning pen-testing is becoming more of a passionate endeavor!</b>
 * PJPT
 * PJMR 
@@ -9,4 +8,4 @@ The progression of learning pen-testing is becoming more of a passionate endeavo
 
 **bold Finally, OSCP 
 
-</html>
+
