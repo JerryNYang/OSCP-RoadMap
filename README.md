@@ -6,6 +6,6 @@ The progression of learning pen-testing is becoming more of a passionate endeavo
 * PNPT
 * TryHackMe & Hack The Box
 
-**bold Finally, OSCP 
+**bold\ Finally, OSCP 
 
 
