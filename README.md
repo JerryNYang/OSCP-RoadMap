@@ -6,7 +6,7 @@ The progression of learning pen-testing is becoming more of a passionate endeavo
 * PNPT
 * TryHackMe & Hack The Box
 
-_TCM Security_
+_TCM Security is one of the best resources for OSCP_
 
 **Finally, OSCP**
 
